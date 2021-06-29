@@ -4,3 +4,5 @@ result.csv
 .DS_Store
 .ipynb_checkpoints/
 result.xlsx
+jupyter.log
+
